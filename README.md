@@ -33,11 +33,10 @@ To Create an interactive dashboard using healthcare dataset, This healthcare ana
 • The highest patient visits were recorded in August, while 2020 had the highest billing and patient count.
 
 # Project Interactive Dashboard
-- <a href="[https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset.csv](https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset_project.xlsx)">HealthCare_Dashboard</a>
+- <a href="https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset_project.xlsx">HealthCare_Interactive_Dashboard</a>
 
 ## Project Report 
-- <a href="[[https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset.csv](https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset_project.xlsx)](https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/Healthcare_analysis_report.pdf)">HealthCare_Dashboard_Report</a>
-
+- <a href="https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/Healthcare_analysis_report.pdf">HealthCare_Report</a>
 
 ## Conclusion
 
