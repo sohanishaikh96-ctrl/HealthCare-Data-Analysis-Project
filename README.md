@@ -21,3 +21,27 @@ To Create an interactive dashboard using healthcare dataset, This healthcare ana
 ## Dashboard
 <img width="1668" height="889" alt="Screenshot 2026-05-12 153750" src="https://github.com/user-attachments/assets/c6c1b55b-dd1a-46d4-b6cf-92694dee5537" />
 
+## Insight 
+• Diabetes was the most common medical condition among patients.
+
+• Adults aged 31–60 had the highest number of hospital visits.
+
+• Elective admissions were higher than emergency and urgent admissions.
+
+• Most patient test results were marked as abnormal.
+
+• The highest patient visits were recorded in August, while 2020 had the highest billing and patient count.
+
+# Project Interactive Dashboard
+- <a href="[https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset.csv](https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset_project.xlsx)">HealthCare Dashboard</a>
+
+## Project Report 
+- <a href="[[https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset.csv](https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset_project.xlsx)](https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/Healthcare_analysis_report.pdf)">HealthCare Dashboard Report</a>
+
+
+## Conclusion
+
+This healthcare analysis project helped in understanding patient trends, medical conditions, billing patterns, hospital performance,
+and insurance usage using Excel. By applying data cleaning, pivot tables, charts, and dashboard techniques, meaningful insights were
+generated from raw healthcare data. The interactive dashboard provides a clear and simple way to monitor healthcare performance,
+patient behavior, and financial trends, which can support better healthcare planning and decision-making
